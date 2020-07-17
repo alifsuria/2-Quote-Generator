@@ -1,0 +1,24 @@
+body {
+  background: #b09e99;
+  height: 100vh;
+  width: 100vw;
+}
+.quote-box {
+  background: #d8cfcc;
+}
+
+.quote-text {
+  font-size: 25px;
+  font-weight: 600;
+  color: #6C757D;
+}
+
+.quote-author {
+  font-size: 23px;
+  font-weight: 700;
+  color: #64BBBD
+}
+
+.clearfix {
+  clear: both;
+}
